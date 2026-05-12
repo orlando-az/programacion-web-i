@@ -1,4 +1,4 @@
-# Laboratorio — Día 0: TypeScript Esencial
+# Laboratorio — TypeScript Esencial
 
 **Asignatura:** Programación Web I — SIS-0300  
 **Carrera:** Ingeniería de Sistemas · UPDS Tarija  
@@ -269,7 +269,7 @@ const sinDesc: Producto = {
 
 ## Ejercicio 5 — Integrador
 
-Sin ejemplo previo. Usá todo lo aprendido en los ejercicios anteriores. El docente asiste individualmente.
+Sin ejemplo previo. Usá todo lo aprendido en los ejercicios anteriores.
 
 ### Consigna
 
