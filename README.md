@@ -28,7 +28,7 @@ Materiales de laboratorio para la asignatura Programación Web I. El módulo ens
 
 ## Proyecto del módulo
 
-A lo largo del módulo se construye un **sistema de gestión de inventario** de forma incremental. Cada día agrega una capa nueva sobre lo anterior — desde componentes estáticos hasta una aplicación completa con autenticación, CRUD, rutas protegidas y reportes.
+A lo largo del módulo se construye una **aplicación de películas (CineApp)** de forma incremental. Cada día agrega una capa nueva sobre lo anterior — desde componentes estáticos hasta una aplicación completa con autenticación, CRUD, rutas protegidas y reportes.
 
 ---
 
@@ -40,21 +40,20 @@ A lo largo del módulo se construye un **sistema de gestión de inventario** de 
 | [Día 1](./dia-01-componentes/)              | Componentes, TSX y props                    | Fase 1 — React         |
 | [Día 2](./dia-02-usestate/)                 | Estado local con useState                   | Fase 1 — React         |
 | [Día 3](./dia-03-listas/)                   | Listas, .map() y composición                | Fase 1 — React         |
-| [Día 4](./dia-04-useeffect/)                | useEffect y ciclo de vida                   | Fase 1 — React         |
-| [Día 5](./dia-05-tailwind-hooks/)           | Tailwind CSS y custom hooks                 | Fase 1 — React         |
-| [Día 6](./dia-06-supabase/)                 | Supabase — configuración y primera consulta | Fase 2 — Base de datos |
-| [Día 7](./dia-07-crud-crear-leer/)          | CRUD — crear y leer                         | Fase 2 — Base de datos |
-| [Día 8](./dia-08-crud-actualizar-eliminar/) | CRUD — actualizar y eliminar                | Fase 2 — Base de datos |
-| Día 9                                       | Evaluación 1                                | —                      |
-| [Día 10](./dia-10-router/)                  | React Router v6 — rutas públicas            | Fase 3 — Rutas         |
-| [Día 11](./dia-11-rutas-protegidas/)        | Rutas protegidas y parámetros               | Fase 3 — Rutas         |
-| [Día 12](./dia-12-auth/)                    | Supabase Auth — registro e inicio de sesión | Fase 4 — Autenticación |
-| [Día 13](./dia-13-auth-perfil/)             | Rutas protegidas reales y perfil            | Fase 4 — Autenticación |
-| Día 14                                      | Evaluación 2                                | —                      |
-| [Día 15](./dia-15-context/)                 | Context API y useReducer                    | Fase 5 — Store         |
-| [Día 16](./dia-16-recharts/)                | Reportes con Recharts                       | Fase 5 — Store         |
-| [Día 17](./dia-17-pulido/)                  | Pulido final del proyecto                   | Fase 5 — Store         |
-| Día 18                                      | Evaluación 3 + Proyecto integrador          | —                      |
+| [Día 4](./dia-04-useeffect/)                | useEffect, Tailwind CSS y custom hooks      | Fase 1 — React         |
+| [Día 5](./dia-05-supabase/)                 | Supabase — configuración y primera consulta | Fase 2 — Base de datos |
+| [Día 6](./dia-06-crud-crear-leer/)          | CRUD — crear y leer                         | Fase 2 — Base de datos |
+| [Día 7](./dia-07-crud-actualizar-eliminar/) | CRUD — actualizar y eliminar                | Fase 2 — Base de datos |
+| Día 8                                       | Evaluación 1                                | —                      |
+| [Día 9](./dia-09-router/)                   | React Router v6 — rutas públicas            | Fase 3 — Rutas         |
+| [Día 10](./dia-10-rutas-protegidas/)        | Rutas protegidas y parámetros               | Fase 3 — Rutas         |
+| [Día 11](./dia-11-auth/)                    | Supabase Auth — registro e inicio de sesión | Fase 4 — Autenticación |
+| [Día 12](./dia-12-auth-perfil/)             | Rutas protegidas reales y perfil            | Fase 4 — Autenticación |
+| Día 13                                      | Evaluación 2                                | —                      |
+| [Día 14](./dia-14-context/)                 | Context API y useReducer                    | Fase 5 — Store         |
+| [Día 15](./dia-15-recharts/)                | Reportes con Recharts                       | Fase 5 — Store         |
+| [Día 16](./dia-16-pulido/)                  | Pulido final del proyecto                   | Fase 5 — Store         |
+| Día 17                                      | Evaluación 3 + Proyecto integrador          | —                      |
 
 ---
 
