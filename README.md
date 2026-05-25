@@ -42,18 +42,11 @@ A lo largo del módulo se construye una **aplicación de películas (CineApp)** 
 | [Día 3](./dia-03-listas/)                   | Listas, .map() y composición                | Fase 1 — React         |
 | [Día 4](./dia-04-useeffect/)                | useEffect, Tailwind CSS y custom hooks      | Fase 1 — React         |
 | [Día 5](./dia-05-supabase/)                 | Supabase — configuración y primera consulta | Fase 2 — Base de datos |
-| [Día 6](./dia-06-crud-crear-leer/)          | CRUD — crear y leer                         | Fase 2 — Base de datos |
-| [Día 7](./dia-07-crud-actualizar-eliminar/) | CRUD — actualizar y eliminar                | Fase 2 — Base de datos |
-| Día 8                                       | Evaluación 1                                | —                      |
-| [Día 9](./dia-09-router/)                   | React Router v6 — rutas públicas            | Fase 3 — Rutas         |
-| [Día 10](./dia-10-rutas-protegidas/)        | Rutas protegidas y parámetros               | Fase 3 — Rutas         |
-| [Día 11](./dia-11-auth/)                    | Supabase Auth — registro e inicio de sesión | Fase 4 — Autenticación |
-| [Día 12](./dia-12-auth-perfil/)             | Rutas protegidas reales y perfil            | Fase 4 — Autenticación |
-| Día 13                                      | Evaluación 2                                | —                      |
-| [Día 14](./dia-14-context/)                 | Context API y useReducer                    | Fase 5 — Store         |
-| [Día 15](./dia-15-recharts/)                | Reportes con Recharts                       | Fase 5 — Store         |
-| [Día 16](./dia-16-pulido/)                  | Pulido final del proyecto                   | Fase 5 — Store         |
-| Día 17                                      | Evaluación 3 + Proyecto integrador          | —                      |
+| [Día 6](./dia-06-crud/)                     | CRUD completo (crear, leer, actualizar, eliminar) | Fase 2 — Base de datos |
+| [Día 7](./dia-07-router/)                   | React Router v6 — rutas públicas y protegidas | Fase 3 — Rutas       |
+| [Día 8](./dia-08-auth/)                     | Supabase Auth — registro, login y rutas reales | Fase 4 — Autenticación |
+| [Día 9](./dia-09-context/)                  | Context API y useReducer                    | Fase 5 — Store         |
+| [Día 10](./dia-10-recharts/)                | Reportes con Recharts                       | Fase 5 — Store         |
 
 ---
 
