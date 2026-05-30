@@ -34,19 +34,17 @@ A lo largo del módulo se construye una **aplicación de películas (CineApp)** 
 
 ## Estructura del módulo
 
-| Día                                         | Tema                                        | Fase                   |
-| ------------------------------------------- | ------------------------------------------- | ---------------------- |
-| [Día 0](./dia-00-typescript/)               | TypeScript esencial                         | Prerequisito           |
-| [Día 1](./dia-01-componentes/)              | Componentes, TSX y props                    | Fase 1 — React         |
-| [Día 2](./dia-02-usestate/)                 | Estado local con useState                   | Fase 1 — React         |
-| [Día 3](./dia-03-listas/)                   | Listas, .map() y composición                | Fase 1 — React         |
-| [Día 4](./dia-04-useeffect/)                | useEffect, Tailwind CSS y custom hooks      | Fase 1 — React         |
-| [Día 5](./dia-05-supabase/)                 | Supabase — configuración y primera consulta | Fase 2 — Base de datos |
-| [Día 6](./dia-06-crud/)                     | CRUD completo (crear, leer, actualizar, eliminar) | Fase 2 — Base de datos |
-| [Día 7](./dia-07-router/)                   | React Router v6 — rutas públicas y protegidas | Fase 3 — Rutas       |
-| [Día 8](./dia-08-auth/)                     | Supabase Auth — registro, login y rutas reales | Fase 4 — Autenticación |
-| [Día 9](./dia-09-context/)                  | Context API y useReducer                    | Fase 5 — Store         |
-| [Día 10](./dia-10-recharts/)                | Reportes con Recharts                       | Fase 5 — Store         |
+| Día                            | Tema                                              | Fase                   |
+| ------------------------------ | ------------------------------------------------- | ---------------------- |
+| [Día 0](./dia-00-typescript/)  | TypeScript esencial                               | Prerequisito           |
+| [Día 1](./dia-01-componentes/) | Componentes, TSX y props                          | Fase 1 — React         |
+| [Día 2](./dia-02-usestate/)    | Estado local con useState                         | Fase 1 — React         |
+| [Día 3](./dia-03-listas/)      | Listas, .map() y composición                      | Fase 1 — React         |
+| [Día 4](./dia-04-useeffect/)   | useEffect, Tailwind CSS y custom hooks            | Fase 1 — React         |
+| [Día 5](./dia-05-supabase/)    | Supabase — configuración y primera consulta       | Fase 2 — Base de datos |
+| [Día 6](./dia-06-crud/)        | CRUD completo (crear, leer, actualizar, eliminar) | Fase 2 — Base de datos |
+| [Día 7](./dia-07-router/)      | React Router v6 — rutas públicas y protegidas     | Fase 3 — Rutas         |
+| [Día 8](./dia-08-auth/)        | Supabase Auth — registro, login y rutas reales    | Fase 4 — Autenticación |
 
 ---
 
